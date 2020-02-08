@@ -12,4 +12,4 @@
 ⚡️ Optimizado con Webpack\
 ⚡️ Documentación
 
-Ver, **[click aquí](https://cobidev.com/)**
+Ver, **[click aquí](https://elegant-archimedes-2c2529.netlify.com/)**
